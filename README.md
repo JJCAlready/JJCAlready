@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JJCAlready
+- 👀 I’m interested in Machine Learning, AI and NLP
+- 🌱 I’m currently learning to use ML and NLP (or I think so, xD)
